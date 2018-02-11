@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Juan Camacho\\Documents\\Processing\\locationManager\\android\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-w160dp-v13\\values-w160dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Juan Camacho\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.0.5.aar\\50315ca7f46b59e11294351786caacf9\\res\\values-w160dp-v13\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7",
+                        "startColumns": "0,0,0,0",
+                        "startOffsets": "222,269,317,367",
+                        "endColumns": "46,47,49,47",
+                        "endOffsets": "268,316,366,414"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,106,158,212",
+                        "endColumns": "50,51,53,51",
+                        "endOffsets": "101,153,207,259"
+                    }
+                }
+            ]
+        }
+    ]
+}

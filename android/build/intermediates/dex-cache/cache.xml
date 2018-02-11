@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Juan Camacho\Documents\Processing\locationManager\android\app\build\intermediates\transforms\desugar\release\3.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bbd7c39b0790570c95de191823e81cec183f7a3d">
+        <dex dex="C:\Users\Juan Camacho\Documents\Processing\locationManager\android\app\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Juan Camacho\Documents\Processing\locationManager\android\app\build\intermediates\transforms\desugar\release\24.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a35602726283fa82679badf481cc06d425cde1c1">
+        <dex dex="C:\Users\Juan Camacho\Documents\Processing\locationManager\android\app\build\intermediates\transforms\preDex\release\28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Juan Camacho\Documents\Processing\locationManager\android\app\build\intermediates\transforms\desugar\release\23.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="214597dcad7d6e3cd5454fac8d3012493772fadc">
+        <dex dex="C:\Users\Juan Camacho\Documents\Processing\locationManager\android\app\build\intermediates\transforms\preDex\release\26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Juan Camacho\Documents\Processing\locationManager\android\app\build\intermediates\transforms\desugar\release\26.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f1ec08938f927728c97adddb33ed8daf2e5769e6">
+        <dex dex="C:\Users\Juan Camacho\Documents\Processing\locationManager\android\app\build\intermediates\transforms\preDex\release\21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Juan Camacho\Documents\Processing\locationManager\android\app\build\intermediates\transforms\desugar\release\19.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6820d21c67eeef479f8738deaf17d86c56b1beb0">
+        <dex dex="C:\Users\Juan Camacho\Documents\Processing\locationManager\android\app\build\intermediates\transforms\preDex\release\27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Juan Camacho\Documents\Processing\locationManager\android\app\build\intermediates\transforms\desugar\release\7.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="19abaddee560a908e49335659defb1a4860c4375">
+        <dex dex="C:\Users\Juan Camacho\Documents\Processing\locationManager\android\app\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Juan Camacho\Documents\Processing\locationManager\android\app\build\intermediates\transforms\desugar\release\25.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c7f9ce1ea751c5ed6f9d444d270948719d654f0b">
+        <dex dex="C:\Users\Juan Camacho\Documents\Processing\locationManager\android\app\build\intermediates\transforms\preDex\release\25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Juan Camacho\Documents\Processing\locationManager\android\app\build\intermediates\transforms\desugar\release\8.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="827d973a52b937f9a3f0e235f8dbe9b69a85c981">
+        <dex dex="C:\Users\Juan Camacho\Documents\Processing\locationManager\android\app\build\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Juan Camacho\Documents\Processing\locationManager\android\app\build\intermediates\transforms\desugar\release\27.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="adffd361b80092bddaf96bdf36ff0e86ad766c98">
+        <dex dex="C:\Users\Juan Camacho\Documents\Processing\locationManager\android\app\build\intermediates\transforms\preDex\release\20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Juan Camacho\Documents\Processing\locationManager\android\app\build\intermediates\processing-tools\runtime-deps\release\desugar_try_with_resources.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="786b13e9d4668484b418e1b356d7da6cb89fbd2f">
+        <dex dex="C:\Users\Juan Camacho\Documents\Processing\locationManager\android\app\build\intermediates\transforms\preDex\release\19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Juan Camacho\Documents\Processing\locationManager\android\app\build\intermediates\transforms\desugar\release\22.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="575092875cd39d84ad364fc48ea27ee5af048c92">
+        <dex dex="C:\Users\Juan Camacho\Documents\Processing\locationManager\android\app\build\intermediates\transforms\preDex\release\23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Juan Camacho\Documents\Processing\locationManager\android\app\build\intermediates\transforms\desugar\release\4.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4bceaf2a2324b9479079c1cc671dabd107e7890f">
+        <dex dex="C:\Users\Juan Camacho\Documents\Processing\locationManager\android\app\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Juan Camacho\Documents\Processing\locationManager\android\app\build\intermediates\transforms\desugar\release\21.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e70bb91d0f2a6a210603265f464de009433b2818">
+        <dex dex="C:\Users\Juan Camacho\Documents\Processing\locationManager\android\app\build\intermediates\transforms\preDex\release\24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Juan Camacho\Documents\Processing\locationManager\android\app\build\intermediates\transforms\desugar\release\2.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a4ea4b3c2d55ddbfb4d7a76a30e727d4ef8cf3dd">
+        <dex dex="C:\Users\Juan Camacho\Documents\Processing\locationManager\android\app\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Juan Camacho\Documents\Processing\locationManager\android\app\build\intermediates\transforms\desugar\release\9.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cc6bbfc00e9f33901cae6571cc46eb96485ed5da">
+        <dex dex="C:\Users\Juan Camacho\Documents\Processing\locationManager\android\app\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Juan Camacho\Documents\Processing\locationManager\android\app\build\intermediates\transforms\desugar\release\1.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="20e55906bd6b5bd828c650ff3899ba636f403d89">
+        <dex dex="C:\Users\Juan Camacho\Documents\Processing\locationManager\android\app\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Juan Camacho\Documents\Processing\locationManager\android\app\build\intermediates\transforms\desugar\release\5.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="094f4fd7164bae2fe9092bdbf6d2b14ca55f936b">
+        <dex dex="C:\Users\Juan Camacho\Documents\Processing\locationManager\android\app\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Juan Camacho\Documents\Processing\locationManager\android\app\build\intermediates\transforms\desugar\release\20.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47e3e3d23de73c222b34260159b1c297f01bceb8">
+        <dex dex="C:\Users\Juan Camacho\Documents\Processing\locationManager\android\app\build\intermediates\transforms\preDex\release\22.jar" />
+    </item>
+
+</items>
